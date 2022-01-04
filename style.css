@@ -29,3 +29,29 @@ section {
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
 }
+.second-half-width img {
+  width: 80%;
+  padding-left: 100px;
+}
+.second-half-width {
+  width: 50%;
+  padding-right: 100px;
+}
+.second-section {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.experience-element {
+  background-color: wheat;
+  height: 350px;
+  width: 50%;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 200px;
+
+  padding: 20px 20px 20px 20px;
+}
+#pro-developer {
+  border-left: 10px solid orange;
+}
